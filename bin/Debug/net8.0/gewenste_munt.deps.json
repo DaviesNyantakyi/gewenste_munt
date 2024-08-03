@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gewenste_munt/1.0.0": {
+        "runtime": {
+          "gewenste_munt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gewenste_munt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
